@@ -1,0 +1,8 @@
+{
+	"patient": {
+		"forename": "",
+		"surname": "",
+		"dateOfBirth:"",
+		"diseaseType": ""
+	}
+}

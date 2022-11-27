@@ -1,0 +1,8 @@
+{
+	"patient": {
+		"firstName": "Test",
+		"lastName": "Patient",
+		"dateOfBirth": "2000-01-01",
+		"diseaseType": "alm"
+	}
+}
